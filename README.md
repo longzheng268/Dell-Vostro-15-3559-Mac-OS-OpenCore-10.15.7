@@ -1,0 +1,1 @@
+# Dell-Vostro-15-3559-Mac-OS-OpenCore-10.15.7
